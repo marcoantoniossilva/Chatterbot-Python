@@ -1,0 +1,20 @@
+{
+  "conversations": [
+    {
+      "messages": ["Olá", "oi"],
+      "response": "Olá, sou o robô de atendimento da Linda Joia. Como posso ajudar?"
+    },
+    {
+      "messages": ["bom dia"],
+      "response": "Bom dia, sou o robô de atendimento da Linda Joia. Como posso ajudar?"
+    },
+    {
+      "messages": ["boa tarde"],
+      "response": "Boa tarde, sou o robô de atendimento da Linda Joia. Como posso ajudar?"
+    },
+    {
+      "messages": ["boa noite"],
+      "response": "Boa noite, sou o robô de atendimento da Linda Joia. Como posso ajudar?"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "conversations": [
+    {
+      "messages": [
+        "Onde a Linda Joia está localizada?",
+        "Qual é o endereço da Linda Joia",
+        "Onde fica a Linda Joia",
+        "Onde é a fabrica?",
+        "Onde é a loja?"
+      ],
+      "response": "A Linda Joia está localizada na Rua Carneiro de Campos, Nº 280, B. Iracema, Vitória da Conquista - BA."
+    },
+    {
+      "messages": [
+        "Qual o horário de funcionamento?",
+        "Qual o horário que funciona a loja?",
+        "A loja fica aberta até que horas?",
+        "Que horas abre a loja?",
+        "Até que horas fica aberto a loja?"
+      ],
+      "response": "A Linda Joia funciona de segunda a sexta de 07:30 às 17:45 e aos sábados de 08:00 às 11:30."
+    },
+    {
+      "messages": [
+        "Como faço pra comprar?",
+        "Como faço para ser uma revendedora?",
+        "Quero ser uma revendedora",
+        "O que precisa para criar um cadastro",
+        "Quero criar um cadastro aí"
+      ],
+      "response": "As compras podem ser feitas pelo próprio site banstando escolher as quantidades e cores de cada peça. Para isso, você precisa criar um cadastro na opção 'Cadastrar'."
+    },
+    {
+      "messages": [
+        "Qual o valor mínimo para compras?",
+        "Tem valor minimo para comprar?",
+        "Tenho que comprar quanto para ser uma revendedora?",
+        "Preciso comprar quanto?",
+        "A primeira compra é de quanto? qual valor?"
+      ],
+      "response": "A primeira compra é de no mímino R$ 300,00."
+    },
+    {
+      "messages": [
+        "Tenho direito a trocas?",
+        "Posso trocar a mercadoria?",
+        "Posso fazer a troca de um produto?",
+        "Qual o prazo para troca?"
+      ],
+      "response": "Você pode trocar até 20% do valor da sua última compra em um prazo máximo de 3 meses."
+    },
+    {
+      "messages": [
+        "Quais as formas de envio?",
+        "Vocês enviam por transportadora?",
+        "Vocês enviam pelo correios?",
+        "Posso retirar na loja?"
+      ],
+      "response": "A mercadoria pode ser enviada por correios e se disponível, também por transportadoras. Se desejar, você pode fazer a retirada na loja física ou pedir para outra pessoa retirar a mercadoria desde que ela leve o documento de identificação do proprietário da mercadoria."
+    },
+    {
+      "messages": [
+        "O frete é por conta de quem?",
+        "O envio  é por conta de quem?",
+        "Quem paga o frete?",
+        "Quem paga o envio"
+      ],
+      "response": "O envio da mercadoria é por conta do cliente."
+    }
+  ]
+}

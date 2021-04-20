@@ -1,0 +1,52 @@
+{
+  "conversations": [
+    {
+      "messages": [
+        "Qual é o preço da Ref 115?",
+        "Qual valor do produto de ref 115?",
+        "Qual valor da calcinha ref 115"
+      ],
+      "response": "O valor da REF 115 é R$ 7,40"
+    },
+    {
+      "messages": [
+        "Qual é o preço da Ref 116?",
+        "Qual valor do produto de ref 116?",
+        "Qual valor da calcinha ref 116"
+      ],
+      "response": "O valor da REF 116 é R$ 8,20"
+    },
+    {
+      "messages": [
+        "Qual é o preço da Ref 117?",
+        "Qual valor do produto de ref 117?",
+        "Qual valor da calcinha ref 117"
+      ],
+      "response": "O valor da REF 117 é R$ 7,10"
+    },
+    {
+      "messages": [
+        "Qual é o preço da Ref 118?",
+        "Qual valor do produto de ref 118?",
+        "Qual valor da calcinha ref 118"
+      ],
+      "response": "O valor da REF 118 é R$ 6,80"
+    },
+    {
+      "messages": [
+        "Qual é o preço da Ref 119?",
+        "Qual valor do produto de ref 119?",
+        "Qual valor da calcinha ref 119"
+      ],
+      "response": "O valor da REF 119 é R$ 7,60"
+    },
+    {
+      "messages": [
+        "Qual é o preço da Ref 120?",
+        "Qual valor do produto de ref 120?",
+        "Qual valor da calcinha ref 120"
+      ],
+      "response": "O valor da REF 120 é R$ 8,15"
+    }
+  ]
+}

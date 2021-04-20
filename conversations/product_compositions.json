@@ -1,0 +1,52 @@
+{
+  "conversations": [
+    {
+      "messages": [
+        "Qual a composição da Ref 115?",
+        "Qual é a composição do produto de ref 115?",
+        "Qual é a composição da calcinha ref 115"
+      ],
+      "response": "A composição da REF 115 é: \nTECIDO MICROFIBRA (90% POLIAMIDA 10% ELASTANO) e FORRO 100% ALGODÃO"
+    },
+    {
+      "messages": [
+        "Qual a composição da Ref 116?",
+        "Qual é a composição do produto de ref 116?",
+        "Qual é a composição da calcinha ref 116"
+      ],
+      "response": "A composição da REF 116 é: \nTECIDO CÓTTON (85% POLIAMIDA 15% ELASTANO) e FORRO 100% ALGODÃO"
+    },
+    {
+      "messages": [
+        "Qual a composição da Ref 117?",
+        "Qual é a composição do produto de ref 117?",
+        "Qual é a composição da calcinha ref 117"
+      ],
+      "response": "A composição da REF 117 é: \nTECIDO VISCOSE (80% POLIAMIDA 20% ELASTANO) e FORRO 100% ALGODÃO"
+    },
+    {
+      "messages": [
+        "Qual a composição da Ref 118?",
+        "Qual é a composição do produto de ref 118?",
+        "Qual é a composição da calcinha ref 118"
+      ],
+      "response": "A composição da REF 118 é: \nTECIDO E FORRO ALGODÃO (100% ALGODÃO)"
+    },
+    {
+      "messages": [
+        "Qual a composição da Ref 119?",
+        "Qual é a composição do produto de ref 119?",
+        "Qual é a composição da calcinha ref 119"
+      ],
+      "response": "A composição da REF 119 é: \nTECIDO MICROFIBRA (98% POLIAMIDA 2% ELASTANO) e FORRO 100% ALGODÃO"
+    },
+    {
+      "messages": [
+        "Qual a composição da Ref 120?",
+        "Qual é a composição do produto de ref 120?",
+        "Qual é a composição da calcinha ref 120"
+      ],
+      "response": "A composição da REF 120 é: \nTECIDO MICROFIBRA (508% POLIAMIDA 50% ELASTANO) e FORRO 100% ALGODÃO"
+    }
+  ]
+}
